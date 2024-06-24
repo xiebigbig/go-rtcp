@@ -8,7 +8,9 @@
 # Usage
 
 `go build app/server/server.go`   中转服务器
+
 `go build app/client/client.go`   内网机器
+
 `go build app/control/control.go` 控制终端
 
 
